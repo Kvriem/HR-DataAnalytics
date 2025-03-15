@@ -14,7 +14,7 @@ This project aims to create an **HR Data Analytics Dashboard** using **Power BI*
   - KPI tracking for HR metrics
 
 ## Technologies Used
-- **Python** (Pandas, NumPy) for data cleansing
+- **Python** (Pandas) for data cleansing
 - **Power BI** for interactive dashboards and data visualization
 
 ## Data Processing Steps
@@ -27,26 +27,7 @@ This project aims to create an **HR Data Analytics Dashboard** using **Power BI*
    - Build dynamic reports with slicers and filters
    - Create trend analysis and KPI tracking visuals
 
-## Installation & Setup
-1. Install Python and required libraries:
-   ```sh
-   pip install pandas numpy
-   ```
-2. Prepare your HR dataset (CSV, Excel, or Database source).
-3. Run the Python script to preprocess the data.
-4. Load the cleaned data into Power BI.
-5. Create dashboards and publish reports.
-
 ## Benefits
 - Track attrition rates to identify workforce trends.
 - Analyze employee turnover patterns.
 - Gain insights into workforce stability and retention.
-
-## Future Enhancements
-- Automate data pipeline using **Power Query** or **ETL tools**.
-- Integrate **machine learning** for predictive HR analytics.
-- Expand visualization options for deeper insights.
-
-## License
-This project is open-source under the MIT License.
-
